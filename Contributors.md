@@ -2,6 +2,7 @@
 # **Contributors**
 <!-- prettier-ignore-start -->
 -[Anas Jehani](https://github.com/Ajehani)
+-[Poorvi Badaya](https://github.com/poorvibadaya)
 -[HninYuHlaing](https://github.com/miracleace)
 - [Daniel Carroll](https://github.com/Krydan)
 -[Anas Muhammed]
